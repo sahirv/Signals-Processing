@@ -1,5 +1,5 @@
 # Signals-Processing
-Developed by: Sahir Vellani and Manfred Cheung
+Developed by: Sahir Vellani and [Manfred Cheung] (https://github.com/mj3cheun)
 ## Convolution
 Returns a plot of the Convolution sum of 2 matlab vectors `input1` and `input2`.
 Sampling frequency `f` is also required.
